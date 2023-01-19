@@ -1,0 +1,31 @@
+{
+  "style": "款式",
+  "gold-price": "每兩足金金條賣出價",
+  "tnc-1": "999.9黃金金條貨品不接受退款或換貨",
+  "terms-conditions": "詳細條款及細則 >",
+  "total-tael": "總兩數",
+  "shopping-flow": "購買流程",
+  "btn-submit": "加入購物袋",
+  "flow1": { "title": "網上購買服務", "description": "網上購買" },
+  "flow2": {
+    "title": "選擇取貨門市",
+    "description": "選擇到取的門市"
+  },
+  "flow3": {
+    "title": "完成付款",
+    "description": "請按指示完成付款"
+  },
+  "flow4": {
+    "title": "購買成功",
+    "description": "你將會收到成功購買的電郵通知"
+  },
+  "flow5": {
+    "title": "取貨通知",
+    "description": "我們會通知客人到門市取貨"
+  },
+  "online-shopping-flow": "線上購物流程",
+  "appointment-subtitle": "我們同時也提供",
+  "appointment-title": "預約門市購買服務",
+  "btn-book": "立即預約",
+  "warning-price-over": "很抱歉，訂單總額超過上限HK$500,000.00，請移除部分商品。"
+}

@@ -1,0 +1,7 @@
+{
+  "page-title": "Please enter your email address to continue",
+  "address": "Your email address",
+  "error-format": "Sorry! Please enter the correct email address format",
+  "submit": "SUBMIT",
+  "error-already": "Sorry! The email address has been verified or has been used repeatedly. Please enter a different email address or contact our customer service for assistance."
+}

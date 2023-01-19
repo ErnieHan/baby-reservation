@@ -1,0 +1,28 @@
+{
+  "banner": {
+    "time-left": "Time Left",
+    "email-to": "Email To",
+    "order-num": "ORDER NUMBER"
+  },
+  "purchase-flow": "Purchase Flow",
+  "order-info": "Order Information",
+  "items": "Items",
+  "price": "Price",
+  "tael": "Tael",
+  "contact-pickup": "Contact and Pick Up Information",
+  "pickup-store": "Pick Up Store",
+  "client-info": "Client Information",
+  "pickup-date": "Estimated pick up date",
+  "name-remark": "You or the person collecting for you will be required to present the original copy of your identification document with photo that matches the name entered here.",
+  "payment-method": "Payment Method",
+  "check-sec": "You can select one of the below bank accounts to transfer the payable amount. Recommend to use same bank transfer as cross bank transfer may require extra processing time.",
+  "account-name": "Account Name",
+  "account-number": "Account Number",
+  "finish": "Thank you for your order",
+  "full-address": "Full Address",
+  "open-hours": "Open Hours",
+  "telephone-num": "Telephone Number",
+  "shop-now": "SHOP NOW",
+  "total": "Total:",
+  "atm": "Bank Transfer"
+}

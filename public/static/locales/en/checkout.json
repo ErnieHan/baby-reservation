@@ -1,0 +1,67 @@
+{
+  "step-flow": {
+    "orders": "Orders",
+    "contact-pickup": "Contact and Pick Up",
+    "payment-method": "Payment Method",
+    "trade-successful": "Trade Successful",
+    "pickup-notification": "Pick Up Notification"
+  },
+  "summary": {
+    "style": "Style",
+    "gold-price": "Gold Price (Sell) per Tael",
+    "total-tael": "Total tael",
+    "pickup-date": "Estimated pick up date",
+    "tnc-1": "999.9 gold bar product is not refundable or exchangeable.",
+    "terms-conditions": "Terms & Conditions >",
+    "help": "Need help? +852 2192 3123 or",
+    "live-chat": "LiveChat",
+    "ealiest-pickup-date": "Estimated ealiest pick up date",
+    "estimated-desc": "The estimated ealiest pick up date will be adjusted according to the pick up location."
+  },
+  "step1": {
+    "my-bag": "My Bag",
+    "items": "Items",
+    "price": "Price",
+    "warning-price-over": "Unfortunately, Order Total exceed maximum limit HK$500,000.00, please remove some of the products in the bag to proceed checkout.",
+    "warning-quantity-not-enough": "Sorry, 999.9 gold bar is out of stock temporarily.",
+    "warning-refresh-1": "As the stock has been refreshed, \"My Bag\" has been cleared.",
+    "warning-refresh-2": "Please add your items in the bag again.",
+    "warning-confirm": "CONFIRM"
+  },
+  "step2": {
+    "contact-pickup": "Contact and Pick Up",
+    "select-store": "Select Chow Sang Sang Store",
+    "salutation": "Salutation",
+    "mr": "Mr.",
+    "miss": "Miss.",
+    "ms": "Ms.",
+    "first-name": "First Name",
+    "last-name": "Last Name",
+    "mobile": "Mobile",
+    "name-remark": "You or the person collecting for you will be required to present the original copy of your identification document with photo that matches the name entered here.",
+    "required": "Required",
+    "requiredSelect": "Please select",
+    "full-address": "Full Address",
+    "open-hours": "Open Hours",
+    "telephone-num": "Telephone Number"
+  },
+  "step3": {
+    "payment-method": "Payment Method",
+    "check-sec": "You can select one of the below bank accounts to transfer the payable amount. Recommend to use same bank transfer as cross bank transfer may require extra processing time.",
+    "warning-price-over": "Unfortunately, Order Total exceed maximum limit HK$500,000.00, please remove some of the products in the bag to proceed checkout.",
+    "warning-price-not-match": "Sorry, it seems failed to place an order.",
+    "warning-modelSeqNbr-not-match": "Sorry, it seems failed to place an order.",
+    "warning-quantity-not-enough": "Sorry, 999.9 gold bar is out of stock temporarily.",
+    "warning-display-only": "The product is not available now.",
+    "warning-res500": "Sorry, it seems failed to place an order.",
+    "warning-payment-blank": "Please select payment method.",
+    "warning-payment-error": "Payment method should in ATM / AliPay / WechatPay",
+    "warning-payment-support": "Sorry, the payment is not support now."
+  },
+  "banner-title": "Check Out",
+  "btn-login": "LOGIN",
+  "btn-back": "BACK",
+  "btn-next": "NEXT",
+  "btn-order": "Place order",
+  "select-payment": "Please select payment method"
+}

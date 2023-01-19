@@ -1,0 +1,31 @@
+.form_box_wrap {
+  background-color: #fff;
+  border-radius: 6px;
+  padding: 16px;
+
+  .title {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    margin-bottom: 16px;
+  }
+
+  .subtitle {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    font-size: 14px;
+  }
+
+  .required_mark {
+    color: var(--primary-color);
+  }
+
+  .input_text {
+    width: 100%;
+    background-color: #fff;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #e9e8e7;
+  }
+}

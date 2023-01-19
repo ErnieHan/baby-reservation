@@ -1,0 +1,856 @@
+{
+  "productInfo": {
+    "channelCatalogItem": {
+      "channelCatalogItemId": "5b8f2f8e849f4030642e94ac",
+      "productName2": "999.9黃金金條",
+      "code": "14595-24KG-00",
+      "goldPrice": 20170,
+      "channelBookingUnits": [
+        {
+          "catalogItemCode": "93647S-24KG-00",
+          "modelSequenceNumber": "588075",
+          "origPrice": 5415,
+          "quantity": 10,
+          "earmarkQuantity": 0,
+          "weight": 0.3,
+          "imageUrl": "https://cdn.chowsangsang.com/eshop/hk/newweb/img-0.3tael.png",
+          "saleType": "normal",
+          "modelNumber": "24KG93647S-21---01-130-00300"
+        },
+        {
+          "catalogItemCode": "12345A-24GG-00",
+          "modelSequenceNumber": "574111",
+          "modelNumber": "24KG14595S-21---02-213-01000",
+          "origPrice": 8970,
+          "quantity": 20,
+          "earmarkQuantity": 3,
+          "weight": 0.5,
+          "imageUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/14595/7078edc9e9aedb2483ab19cf8e9f7682.jpg",
+          "saleType": "normal"
+        },
+        {
+          "catalogItemCode": "14595S-24KG-00",
+          "modelSequenceNumber": "7049",
+          "modelNumber": "24KG14595S-21---02-213-01001",
+          "origPrice": 17940,
+          "quantity": 11,
+          "earmarkQuantity": 5,
+          "weight": 1,
+          "imageUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/14595/7078edc9e9aedb2483ab19cf8e9f7682.jpg",
+          "saleType": "normal"
+        },
+        {
+          "catalogItemCode": "89008C-24GG-00",
+          "modelSequenceNumber": "7050",
+          "modelNumber": "24KG14595S-21---02-213-01002",
+          "origPrice": 89700,
+          "quantity": 10,
+          "earmarkQuantity": 5,
+          "weight": 5,
+          "imageUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/14595/21efa61a65732a2f1d417b7f7ac2f3bb.jpg",
+          "saleType": "normal"
+        }
+      ],
+      "errorCodes": []
+    }
+  },
+  "miniCart": {
+    "cartId": "5b8f2f8e849f4030642e94ac",
+    "createDate": "2018-01-01T01:21:18.316",
+    "totalNetAmount": 9780,
+    "totalWeight": 20,
+    "goldPrice": 8780,
+    "cartItems": [
+      {
+        "itemId": "5b8f2f8e849f4030642e94ac",
+        "modelSeqNbr": "574111",
+        "quantity": 1,
+        "perNetAmount": 1870,
+        "createDate": "2018-01-01T01:21:18.316",
+        "information": {
+          "channelCatalogItemId": "5ea967c72a3c6a0001a651de",
+          "productName2": "足金串飾",
+          "code": "89008C-24GG-00",
+          "origPrice": 2345,
+          "weight": 0.5,
+          "imageUrl": "//cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/89008/0c6873d408627e9589509ff2c05e64f7.jpg"
+        }
+      },
+      {
+        "itemId": "5b8f2f8e849f4030642e94ac",
+        "modelSeqNbr": "7049",
+        "quantity": 1,
+        "perNetAmount": 1870,
+        "createDate": "2018-01-01T01:21:18.316",
+        "information": {
+          "channelCatalogItemId": "5ea967c72a3c6a0001a651de",
+          "productName2": "足金串飾",
+          "code": "89008C-24GG-00",
+          "origPrice": 8200,
+          "weight": 5,
+          "imageUrl": "//cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/89008/0c6873d408627e9589509ff2c05e64f7.jpg"
+        }
+      },
+      {
+        "itemId": "5b8f2f8e849f4030642e94ac",
+        "modelSeqNbr": "7050",
+        "quantity": 1,
+        "perNetAmount": 1870,
+        "createDate": "2018-01-01T01:21:18.316",
+        "information": {
+          "channelCatalogItemId": "5ea967c72a3c6a0001a651de",
+          "productName2": "足金串飾",
+          "code": "89008C-24GG-00",
+          "origPrice": 8200,
+          "weight": 5,
+          "imageUrl": "//cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/89008/0c6873d408627e9589509ff2c05e64f7.jpg"
+        }
+      }
+    ]
+  },
+  "mybags": {
+    "cartId": "5fbe095ad5c04d00013242c0",
+    "createDate": "2020-11-25T16:07:46.628",
+    "totalNetAmount": 59780,
+    "totalWeight": 6,
+    "goldPrice": 17940,
+    "errorCodes": [],
+    "pickupDate": "2020/11/27",
+    "cartItems": [
+      {
+        "itemId": "5b8f2f8e849f4030642e94ac",
+        "modelSeqNbr": "588075",
+        "modelNumber": "24KG14595S-21---02-213-01000",
+        "quantity": 3,
+        "perNetAmount": 1870,
+        "createDate": "2018-01-01T01:21:18.316",
+        "information": {
+          "channelCatalogItemId": "5ea967c72a3c6a0001a651de",
+          "productName2": "足金串飾",
+          "code": "89008C-24GG-00",
+          "origPrice": 2345,
+          "weight": 0.3,
+          "imageUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90981/a8cd96377740a0f0b0a78cbe573f928f.jpg"
+        }
+      }
+    ]
+  },
+  "stores": [
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "油尖旺區",
+      "storeId": "101",
+      "displayName": "101 總行(佐敦彌敦道229號)",
+      "address": "香港九龍區佐敦彌敦道229號周生生大廈地下",
+      "telephoneNumber": "+852 2730 3241",
+      "givenName": "佐敦彌敦道229號店",
+      "operatingHour": "11:00-20:30",
+      "dsLatitude": "22.304642",
+      "dsLongitude": "114.171357"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "油尖旺區",
+      "storeId": "102",
+      "displayName": "102 旺行(旺角彌敦道693號)",
+      "address": "香港九龍區旺角彌敦道693號地下",
+      "telephoneNumber": "+852 2392 0183",
+      "givenName": "彌敦道店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.319909",
+      "dsLongitude": "114.169134"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "九龍城區",
+      "storeId": "107",
+      "displayName": "107 紅行(紅磡蕪湖街)",
+      "address": "香港九龍區紅磡蕪湖街99號",
+      "telephoneNumber": "+852 2362 5077",
+      "givenName": "紅磡店",
+      "operatingHour": "10:00-20:00",
+      "dsLatitude": "22.307273",
+      "dsLongitude": "114.185650"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "荃灣區",
+      "storeId": "108",
+      "displayName": "108 荃行(荃灣眾安街)",
+      "address": "香港新界區荃灣眾安街63號",
+      "telephoneNumber": "+852 2416 3623",
+      "givenName": "荃灣店",
+      "operatingHour": "10:00-20:00",
+      "dsLatitude": "22.369644",
+      "dsLongitude": "114.116516"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "元朗區",
+      "storeId": "109",
+      "displayName": "109 元行(元朗青山公路87號)",
+      "address": "香港新界區元朗青山公路87號地下",
+      "telephoneNumber": "+852 2476 2556",
+      "givenName": "元朗青山公路87號店",
+      "operatingHour": "09:30-19:30",
+      "dsLatitude": "22.444501",
+      "dsLongitude": "114.029133"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "大埔區",
+      "storeId": "111",
+      "displayName": "111 大行(大埔廣福道)",
+      "address": "香港新界區大埔廣福道70號B",
+      "telephoneNumber": "+852 2653 0838",
+      "givenName": "大埔廣福道店",
+      "operatingHour": "10:00-20:00",
+      "dsLatitude": "22.448488",
+      "dsLongitude": "114.166903"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "深水埗區",
+      "storeId": "113",
+      "displayName": "113 青行(深水埗青山道)",
+      "address": "香港九龍區深水埗青山道326號",
+      "telephoneNumber": "+852 2386 7564",
+      "givenName": "深水埗店",
+      "operatingHour": "09:30-19:30",
+      "dsLatitude": "22.338527",
+      "dsLongitude": "114.156421"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "屯門區",
+      "storeId": "114",
+      "displayName": "114 屯行(屯門錦薈坊)",
+      "address": "香港新界區屯門錦薈坊L3層309-310號舖",
+      "telephoneNumber": "+852 2452 2181",
+      "givenName": "屯門錦薈坊店",
+      "operatingHour": "10:30-19:30",
+      "dsLatitude": "22.393907",
+      "dsLongitude": "113.975466"
+    },
+    {
+      "districtName": "香港區",
+      "subDistrictName": "灣仔區",
+      "storeId": "116",
+      "displayName": "116 同行(銅鑼灣軒尼詩道501號)",
+      "address": "香港銅鑼灣軒尼詩道501號",
+      "telephoneNumber": "+852 2893 3677",
+      "givenName": "銅鑼灣店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.280294",
+      "dsLongitude": "114.183185"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "沙田區",
+      "storeId": "117",
+      "displayName": "117 沙行(沙田新城市廣場)",
+      "address": "香港新界區沙田新城市廣場L3層310-311號舖",
+      "telephoneNumber": "+852 2607 3198",
+      "givenName": "沙田新城市廣場店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.382735",
+      "dsLongitude": "114.188611"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "北區",
+      "storeId": "122",
+      "displayName": "122 上行(上水廣場)",
+      "address": "香港新界區上水廣場L2層202號舖",
+      "telephoneNumber": "+852 2671 9338",
+      "givenName": "上水廣場店",
+      "operatingHour": "10:00-20:00",
+      "dsLatitude": "22.502653",
+      "dsLongitude": "114.127886"
+    },
+    {
+      "districtName": "香港區",
+      "subDistrictName": "東區",
+      "storeId": "125",
+      "displayName": "125 北行(北角英皇道)",
+      "address": "香港北角英皇道395號",
+      "telephoneNumber": "+852 2561 8399",
+      "givenName": "北角店",
+      "operatingHour": "10:30-20:00",
+      "dsLatitude": "22.291299",
+      "dsLongitude": "114.199368"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "黃大仙區",
+      "storeId": "130",
+      "displayName": "130 鑽行(鑽石山荷里活廣場)",
+      "address": "香港九龍區鑽石山荷里活廣場L1層149號舖",
+      "telephoneNumber": "+852 2111 1755",
+      "givenName": "鑽石山荷里活廣場店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.340727",
+      "dsLongitude": "114.202285"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "西貢區",
+      "storeId": "134",
+      "displayName": "134 東行(將軍澳東港城)",
+      "address": "香港新界區將軍澳東港城L1層173號舖",
+      "telephoneNumber": "+852 2628 5278",
+      "givenName": "將軍澳東港城店",
+      "operatingHour": "11:00-20:30",
+      "dsLatitude": "22.316069",
+      "dsLongitude": "114.265467"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "元朗區",
+      "storeId": "136",
+      "displayName": "136 朗行(元朗青山公路134號)",
+      "address": "香港新界區元朗青山公路134號",
+      "telephoneNumber": "+852 2470 7622",
+      "givenName": "元朗青山公路134號店",
+      "operatingHour": "10:00-20:00",
+      "dsLatitude": "22.444363",
+      "dsLongitude": "114.028056"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "深水埗區",
+      "storeId": "138",
+      "displayName": "138 又行(九龍塘又一城)",
+      "address": "香港九龍區九龍塘又一城LG2層49號舖",
+      "telephoneNumber": "+852 2265 8322",
+      "givenName": "九龍塘又一城店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.337074",
+      "dsLongitude": "114.174879"
+    },
+    {
+      "districtName": "香港區",
+      "subDistrictName": "東區",
+      "storeId": "141",
+      "displayName": "141 太行(鰂魚涌太古城中心)",
+      "address": "香港鰂魚涌太古城中心1層119號舖",
+      "telephoneNumber": "+852 2569 6083",
+      "givenName": "鰂魚涌太古城店",
+      "operatingHour": "11:00-20:30",
+      "dsLatitude": "22.285739",
+      "dsLongitude": "114.217403"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "西貢區",
+      "storeId": "143",
+      "displayName": "143 寶行(將軍澳新都城中心)",
+      "address": "香港新界區將軍澳新都城中心二期商場L1層1162-1165號舖",
+      "telephoneNumber": "+852 2695 4832",
+      "givenName": "將軍澳新都城店",
+      "operatingHour": "11:00-20:30",
+      "dsLatitude": "22.323209",
+      "dsLongitude": "114.257802"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "油尖旺區",
+      "storeId": "145",
+      "displayName": "145 旗行(旺角彌敦道628號)",
+      "address": "香港九龍區旺角彌敦道628號瓊華中心地下",
+      "telephoneNumber": "+852 2332 0633",
+      "givenName": "旺角旗艦店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.317822",
+      "dsLongitude": "114.169839"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "觀塘區",
+      "storeId": "146",
+      "displayName": "146 福行(九龍灣德福廣場)",
+      "address": "香港九龍區九龍灣德福廣場一期P51號舖",
+      "telephoneNumber": "+852 2154 4247",
+      "givenName": "九龍灣德福廣場店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.323706",
+      "dsLongitude": "114.213509"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "大埔區",
+      "storeId": "159",
+      "displayName": "159 埔行(大埔新達廣場)",
+      "address": "香港新界區大埔新達廣場L1層A014-15號舖",
+      "telephoneNumber": "+852 2656 6488",
+      "givenName": "大埔新達廣場分店",
+      "operatingHour": "10:30-20:30",
+      "dsLatitude": "22.443994",
+      "dsLongitude": "114.168698"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "油尖旺區",
+      "storeId": "161",
+      "displayName": "161 廣行(尖沙咀新港中心)",
+      "address": "香港九龍區尖沙咀廣東道30號新港中心G38F號舖",
+      "telephoneNumber": "+852 2735 4622",
+      "givenName": "尖沙咀新港中心店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.297655",
+      "dsLongitude": "114.169330"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "葵青區",
+      "storeId": "162",
+      "displayName": "162 衣行(青衣城)",
+      "address": "香港新界區青衣城商場164號舖",
+      "telephoneNumber": "+852 2497 1055",
+      "givenName": "青衣城店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.355724",
+      "dsLongitude": "114.108302"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "油尖旺區",
+      "storeId": "170",
+      "displayName": "170 雅行(旺角雅蘭中心)",
+      "address": "香港九龍區旺角彌敦道639號雅蘭中心1期地下及1樓",
+      "telephoneNumber": "+852 2398 8408",
+      "givenName": "旺角雅蘭店",
+      "operatingHour": "11:00-22:00",
+      "dsLatitude": "22.317854",
+      "dsLongitude": "114.169567"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "油尖旺區",
+      "storeId": "172",
+      "displayName": "172 世行(旺角新世紀廣場)",
+      "address": "香港九龍區旺角新世紀廣場地鐵樓層M29-M30號舖",
+      "telephoneNumber": "+852 2154 3842",
+      "givenName": "旺角新世紀廣場店",
+      "operatingHour": "11:00-20:30",
+      "dsLatitude": "22.323384",
+      "dsLongitude": "114.172199"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "荃灣區",
+      "storeId": "174",
+      "displayName": "174 海行(荃灣廣場)",
+      "address": "香港新界區荃灣大壩街4-30號荃灣廣場1樓107號舖",
+      "telephoneNumber": "+852 2405 2280",
+      "givenName": "荃灣廣場店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.370860",
+      "dsLongitude": "114.111314"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "油尖旺區",
+      "storeId": "175",
+      "displayName": "175 栢行(尖沙咀栢麗大道)",
+      "address": "香港九龍區尖沙咀栢麗大道1-4號",
+      "telephoneNumber": "+852 2154 4282",
+      "givenName": "尖沙咀栢麗大道店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.299504",
+      "dsLongitude": "114.171841"
+    },
+    {
+      "districtName": "香港區",
+      "subDistrictName": "灣仔區",
+      "storeId": "177",
+      "displayName": "177 代行(銅鑼灣時代廣場)",
+      "address": "香港銅鑼灣時代廣場地庫2層B230-B231號舖",
+      "telephoneNumber": "+852 2154 3816",
+      "givenName": "銅鑼灣時代廣場店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.278430",
+      "dsLongitude": "114.182231"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "屯門區",
+      "storeId": "182",
+      "displayName": "182 門行(屯門市廣場)",
+      "address": "香港新界區屯門屯門市廣場一期L1層1178號舖",
+      "telephoneNumber": "+852 2154 4264",
+      "givenName": "屯門市廣場店",
+      "operatingHour": "10:30-20:00",
+      "dsLatitude": "22.393085",
+      "dsLongitude": "113.976943"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "葵青區",
+      "storeId": "184",
+      "displayName": "184 葵行(葵芳新都會廣場)",
+      "address": "香港新界區葵芳興芳路223號新都會廣場359號",
+      "telephoneNumber": "+852 2117 1016",
+      "givenName": "葵芳新都會廣場店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.357472",
+      "dsLongitude": "114.126804"
+    },
+    {
+      "districtName": "香港區",
+      "subDistrictName": "中西區",
+      "storeId": "187",
+      "displayName": "187 金行(中環國際金融中心)",
+      "address": "香港中環國際金融中心商場L1層1011-1012號舖",
+      "telephoneNumber": "+852 2295 3882",
+      "givenName": "中環國際金融中心店",
+      "operatingHour": "10:30-20:00",
+      "dsLatitude": "22.284948",
+      "dsLongitude": "114.157010"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "油尖旺區",
+      "storeId": "189",
+      "displayName": "189 尖行(尖沙咀iSQUARE)",
+      "address": "香港九龍區尖沙咀iSQUARE國際廣場地下G04號舖",
+      "telephoneNumber": "+852 2668 4300",
+      "givenName": "尖沙咀iSQUARE店",
+      "operatingHour": "11:00-20:00",
+      "dsLatitude": "22.296735",
+      "dsLongitude": "114.171810"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "北區",
+      "storeId": "190",
+      "displayName": "190 龍行(上水新都廣場)",
+      "address": "香港新界區上水新都廣場L2層255-257號舖",
+      "telephoneNumber": "+852 2639 0713",
+      "givenName": "上水新都廣場店",
+      "operatingHour": "10:30-20:30",
+      "dsLatitude": "22.502269",
+      "dsLongitude": "114.129150"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "西貢區",
+      "storeId": "192",
+      "displayName": "192 將行(將軍澳PopCorn)",
+      "address": "香港新界區將軍澳唐賢街9號PopCorn,G38-39號舖",
+      "telephoneNumber": "+852 2758 5263",
+      "givenName": "將軍澳PopCorn店",
+      "operatingHour": "11:00-20:30",
+      "dsLatitude": "22.307623",
+      "dsLongitude": "114.259537"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "油尖旺區",
+      "storeId": "210",
+      "displayName": "210 佳行(旺角新之城)",
+      "address": "香港九龍區旺角亞皆老街65號新之城地下G01-09號舗",
+      "telephoneNumber": "+852 2391 9732",
+      "givenName": "旺角新之城店",
+      "operatingHour": "11:00-20:30",
+      "dsLatitude": "22.319837",
+      "dsLongitude": "114.169717"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "屯門區",
+      "storeId": "211",
+      "displayName": "211 V行(屯門Vcity)",
+      "address": "香港新界區屯門鄉事會路83號V city,M95號舖",
+      "telephoneNumber": "+852 2679 0608",
+      "givenName": "屯門Vcity店",
+      "operatingHour": "10:30-20:00",
+      "dsLatitude": "22.395868",
+      "dsLongitude": "113.973998"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "大埔區",
+      "storeId": "215",
+      "displayName": "215 超行(大埔超級城)",
+      "address": "香港新界區大埔太和路大埔超級城B區210-211號舖",
+      "telephoneNumber": "+852 2790 9348",
+      "givenName": "大埔超級城店",
+      "operatingHour": "10:30-20:30",
+      "dsLatitude": "22.451789",
+      "dsLongitude": "114.170164"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "觀塘區",
+      "storeId": "234",
+      "displayName": "234 A行(觀塘APM)",
+      "address": "香港九龍區觀塘創紀之城五期APM大堂C-39號舖",
+      "telephoneNumber": "+852 2764 3702",
+      "givenName": "觀塘APM店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.312250",
+      "dsLongitude": "114.225125"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "元朗區",
+      "storeId": "235",
+      "displayName": "235 豐行(元朗廣場)",
+      "address": "香港新界區元朗大馬路249-251號元朗廣場地下037-038號舖",
+      "telephoneNumber": "+852 2394 9270",
+      "givenName": "元朗廣場店",
+      "operatingHour": "10:00-20:00",
+      "dsLatitude": "22.444736",
+      "dsLongitude": "114.023902"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "離島區",
+      "storeId": "237",
+      "displayName": "237 富行(東涌富東廣場)",
+      "address": "香港新界區大嶼山東涌富東廣場1樓104號舖",
+      "telephoneNumber": "+852 2971 0455",
+      "givenName": "東涌富東廣場店",
+      "operatingHour": "11:00-20:00",
+      "dsLatitude": "22.289130",
+      "dsLongitude": "113.942306"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "元朗區",
+      "storeId": "240",
+      "displayName": "240 Y行(元朗YOHO)",
+      "address": "香港新界區元朗朗日路9號形點I期1樓1008號舖",
+      "telephoneNumber": "+852 2703 6079",
+      "givenName": "Yoho Mall形點店",
+      "operatingHour": "11:00-21:00",
+      "dsLatitude": "22.445589",
+      "dsLongitude": "114.035038"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "元朗區",
+      "storeId": "243",
+      "displayName": "243 新元行(青山公路143號)",
+      "address": "香港新界區元朗青山公路143-151號昌裕大廈地下C及D舖",
+      "telephoneNumber": "+852 2984 2466",
+      "givenName": "元朗青山公路143-151號店",
+      "operatingHour": "09:30-19:30",
+      "dsLatitude": "22.444707",
+      "dsLongitude": "114.027580"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "九龍城區",
+      "storeId": "245",
+      "displayName": "245 德行(黃埔天地)",
+      "address": "香港九龍區黃埔天地時尚坊(第2期)地下G18號舖",
+      "telephoneNumber": "+852 2940 7466",
+      "givenName": "黃埔天地時尚坊店",
+      "operatingHour": "11:00-20:30",
+      "dsLatitude": "22.304901",
+      "dsLongitude": "114.189716"
+    },
+    {
+      "districtName": "九龍區",
+      "subDistrictName": "深水埗區",
+      "storeId": "246",
+      "displayName": "246 昌行(南昌V Walk)",
+      "address": "香港九龍區深水埗深旺道28號VWalk2層99-100號舖",
+      "telephoneNumber": "+852 2873 4478",
+      "givenName": " V Walk店",
+      "operatingHour": "11:00-20:30",
+      "dsLatitude": "22.326627",
+      "dsLongitude": "114.155020"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "離島區",
+      "storeId": "248",
+      "displayName": "248 薈行(東涌東薈城)",
+      "address": "香港新界區東涌達東路18-20號東薈城309C號",
+      "telephoneNumber": "+852 2656 6334",
+      "givenName": "東涌東薈城店",
+      "operatingHour": "11:00-20:00",
+      "dsLatitude": "22.289901",
+      "dsLongitude": "113.940849"
+    },
+    {
+      "districtName": "香港區",
+      "subDistrictName": "東區",
+      "storeId": "E10",
+      "displayName": "E10 華行(北角匯)",
+      "address": "香港北角渣華道123號北角匯二期地下G27&35號舖",
+      "telephoneNumber": "+852 2489 8605",
+      "givenName": "北角匯店",
+      "operatingHour": "11:00-20:30",
+      "dsLatitude": "22.292724",
+      "dsLongitude": "114.200987"
+    },
+    {
+      "districtName": "新界區",
+      "subDistrictName": "荃灣區",
+      "storeId": "E24",
+      "displayName": "E24 心行(荃灣如心廣場)",
+      "address": "香港新界區荃灣楊屋道8號如心廣場一期1樓115A及116號舖",
+      "telephoneNumber": "+852 2358 0277",
+      "givenName": "荃灣如心廣場店",
+      "operatingHour": "11:00-20:00",
+      "dsLatitude": "22.368849",
+      "dsLongitude": "114.113032"
+    }
+  ],
+  "bankAccounts": [
+    {
+      "bankName": "The Hongkong and Shanghai Banking Corporation Ltd",
+      "bankAccountNumber": "032-086670-292",
+      "bankAccount": "Chow Sang Sang Jewellery Company Ltd",
+      "imageUrl": "https://cdn.chowsangsang.com/eshop/hk/newweb/logo-HKBC.svg"
+    },
+    {
+      "bankName": "Bank of China (Hong Kong) Limited",
+      "bankAccountNumber": "032-086670-292",
+      "bankAccount": "Chow Sang Sang Jewellery Company Ltd",
+      "imageUrl": "https://cdn.chowsangsang.com/eshop/hk/newweb/logo-BOCHK.png"
+    },
+    {
+      "bankName": "Standard Chartered PLC",
+      "bankAccountNumber": "032-086670-292",
+      "bankAccount": "Chow Sang Sang Jewellery Company Ltd",
+      "imageUrl": "https://cdn.chowsangsang.com/eshop/hk/newweb/logo-SC.webp"
+    }
+  ],
+  "customers": {
+    "customer": {
+      "firstName": "嘉欣",
+      "familyName": "陳",
+      "preferenceLanguage": "ZHT",
+      "email": "chanky@gmail.com",
+      "emailStatus": "P",
+      "mobileCountryCode": "852",
+      "mobileNumber": "93714125",
+      "salute": "02",
+      "customerId": "1234",
+      "dateOfBirth": "05-16",
+      "memberClass": "ABC",
+      "gender": "female",
+      "optOutEDM": "Y"
+    }
+  },
+  "paymentMethods": [
+    {
+      "paymentMethodCode": "ATM",
+      "bankAccounts": [
+        {
+          "bankName": "The Hongkong and Shanghai Banking Corporation Ltd",
+          "bankAccountNumber": "032-086670-292",
+          "bankAccount": "Chow Sang Sang Jewellery Company Ltd",
+          "imageUrl": "https://cdn.chowsangsang.com/eshop/hk/newweb/logo-HKBC.svg"
+        },
+        {
+          "bankName": "Bank of China (Hong Kong) Limited",
+          "bankAccountNumber": "032-086670-292",
+          "bankAccount": "Chow Sang Sang Jewellery Company Ltd",
+          "imageUrl": "https://cdn.chowsangsang.com/eshop/hk/newweb/logo-BOCHK.png"
+        },
+        {
+          "bankName": "Standard Chartered PLC",
+          "bankAccountNumber": "032-086670-292",
+          "bankAccount": "Chow Sang Sang Jewellery Company Ltd",
+          "imageUrl": "https://cdn.chowsangsang.com/eshop/hk/newweb/logo-SC.webp"
+        }
+      ]
+    },
+    {
+      "paymentMethodCode": "AliPay",
+      "bankAccounts": null
+    },
+    {
+      "paymentMethodCode": "WechatPay",
+      "bankAccounts": null
+    }
+  ],
+  "paymentStatus": {
+    "paymentSuccess": true
+  },
+  "orderData": {
+    "ctId": "CT247AW000048",
+    "customerMobileCountryCode": "852",
+    "customerMobileNumber": "93714125",
+    "customerFirstName": "嘉欣",
+    "customerFamilyName": "陳",
+    "salute": "小姐",
+    "customerEmail": "chanky@gmail.com",
+    "receiverName": "徐湯湯",
+    "receiverMobileNumber": "852 12345678",
+    "receiverSalutation": "小姐",
+    "storeDistrictName": "新界區",
+    "storeSubDistrictName": "元朗區",
+    "storeId": "109",
+    "storeDisplayName": "109 元行",
+    "storeAddress": "香港新界區元朗青山公路87號地下",
+    "storeTelephoneNumber": "+852 2476 2556,+852 2478 3351",
+    "storeGivenName": "周生生元朗青山公路87號店",
+    "storeOperatingHour": "09:30-20:00",
+    "storeDsLatitude": "22.304642",
+    "storeDsLongitude": "114.171357",
+    "pickUpDate": "2020/09/03",
+    "totalAmount": 189300,
+    "cartItems": [
+      {
+        "itemId": "5b8f2f8e849f4030642e94ac",
+        "modelSeqNbr": "7048",
+        "modelNumber": "24KG14595S-21---02-213-01000",
+        "quantity": 1,
+        "perNetAmount": 1870,
+        "createDate": "2018-01-01T01:21:18.316",
+        "information": {
+          "channelCatalogItemId": "5ea967c72a3c6a0001a651de",
+          "productName2": "足金串飾",
+          "code": "89008C-24GG-00",
+          "origPrice": 8200,
+          "weight": 0.5,
+          "imageUrl": "//cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/89008/0c6873d408627e9589509ff2c05e64f7.jpg"
+        }
+      },
+      {
+        "itemId": "5b8f2f8e849f4030642e94ac",
+        "modelSeqNbr": "7049",
+        "modelNumber": "24KG14595S-21---02-213-01001",
+        "quantity": 1,
+        "perNetAmount": 1870,
+        "createDate": "2018-01-01T01:21:18.316",
+        "information": {
+          "channelCatalogItemId": "5ea967c72a3c6a0001a651de",
+          "productName2": "足金串飾",
+          "code": "89008C-24GG-00",
+          "origPrice": 8200,
+          "weight": 1,
+          "imageUrl": "//cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/89008/0c6873d408627e9589509ff2c05e64f7.jpg"
+        }
+      },
+      {
+        "itemId": "5b8f2f8e849f4030642e94ac",
+        "modelSeqNbr": "7050",
+        "modelNumber": "24KG14595S-21---02-213-01000",
+        "quantity": 2,
+        "perNetAmount": 1870,
+        "createDate": "2018-01-01T01:21:18.316",
+        "information": {
+          "channelCatalogItemId": "5ea967c72a3c6a0001a651de",
+          "productName2": "足金串飾",
+          "code": "89008C-24GG-00",
+          "origPrice": 8200,
+          "weight": 5,
+          "imageUrl": "//cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/89008/0c6873d408627e9589509ff2c05e64f7.jpg"
+        }
+      }
+    ],
+    "paymentMethodCode": "Alipay"
+  },
+  "campaignInfo": {
+    "showGiftIndicator": true,
+    "giftDescription": "為感謝閣下的支持，現凡購買任何重量的999.9黃金金條即送MINTY迷你首飾盒(薄荷綠)乙個*!<br/> *數量有限, 送完即止<br/>*受條款及細則約束"
+  }
+}

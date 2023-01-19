@@ -1,0 +1,31 @@
+{
+  "style": "Style",
+  "gold-price": "Gold bar price (sell) per tael",
+  "tnc-1": "999.9 gold bar product is not refundable or exchangeable.",
+  "terms-conditions": "Terms & Conditions >",
+  "total-tael": "Total tael",
+  "shopping-flow": "Shopping flow",
+  "btn-submit": "Add to bag",
+  "flow1": { "title": "Online Purchase", "description": "Buy online" },
+  "flow2": {
+    "title": "Select Pick Up Store",
+    "description": "Select your preferred store for collection"
+  },
+  "flow3": {
+    "title": "Payment Settlement",
+    "description": "Please settle payment according to instructions"
+  },
+  "flow4": {
+    "title": "Trade Successful  ",
+    "description": "You will receive a confirmation email"
+  },
+  "flow5": {
+    "title": "Pick Up Notification",
+    "description": "We will notify you via email when your purchase is ready for collection"
+  },
+  "online-shopping-flow": "Online Shopping Flow",
+  "appointment-subtitle": "We Also offer you",
+  "appointment-title": "Online Shopping Flow",
+  "btn-book": "book now",
+  "warning-price-over": "Unfortunately, Order Total exceed maximum limit HK$500,000.00, please remove some products."
+}

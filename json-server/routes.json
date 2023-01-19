@@ -1,0 +1,11 @@
+{
+  "/shopping/v1/compositions/productDetails/info": "/productInfo",
+  "/shopping/v1/compositions/miniCart": "/miniCart",
+  "/shopping/v1/compositions/mybags": "/mybags",
+  "/shopping/v1/stores": "/stores",
+  "/shopping/v1/payments/paymentMethods": "/paymentMethods",
+  "/shopping/v1/customers/info": "/customers",
+  "/shopping/v1/compositions/paymentStatus?*": "/paymentStatus",
+  "/shopping/v1/compositions/order-data/*": "/orderData",
+  "/shopping/v1/compositions/campaignInfo": "/campaignInfo"
+}

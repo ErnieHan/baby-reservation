@@ -1,0 +1,67 @@
+{
+  "step-flow": {
+    "orders": "訂單資料",
+    "contact-pickup": "聯絡及取貨資料",
+    "payment-method": "付款方式",
+    "trade-successful": "購買成功",
+    "pickup-notification": "取貨通知"
+  },
+  "summary": {
+    "style": "款式",
+    "gold-price": "每兩飾金賣出價",
+    "total-tael": "總兩數",
+    "pickup-date": "預計取貨日期",
+    "tnc-1": "999.9黃金金條貨品不接受退款或換貨",
+    "terms-conditions": "詳細條款及細則 >",
+    "help": "需要協助? +852 2192 3123 or",
+    "live-chat": "線上查詢",
+    "ealiest-pickup-date": "預計最快取貨日期",
+    "estimated-desc": "預計最快取貨日期會根據挑選的取貨地點有所調整"
+  },
+  "step1": {
+    "my-bag": "預訂資料",
+    "items": "產品",
+    "price": "價格",
+    "warning-price-over": "很抱歉，訂單總額超過上限HK$500,000.00，請從您的購物袋中移除部分商品以完成訂購。",
+    "warning-quantity-not-enough": "不好意思，999.9黃金金條暫時缺貨。",
+    "warning-refresh-1": "由於庫存刷新，閣下的購物袋已被清空。",
+    "warning-refresh-2": "請重新把貨品加到購物袋。",
+    "warning-confirm": "確定"
+  },
+  "step2": {
+    "contact-pickup": "聯絡及取貨資料",
+    "select-store": "選擇周生生分店",
+    "salutation": "稱謂",
+    "mr": "先生",
+    "miss": "小姐",
+    "ms": "女士",
+    "first-name": "名稱",
+    "last-name": "姓氏",
+    "mobile": "聯絡電話",
+    "name-remark": "您或您的取貨人須出示附有近照的身份證明文件正本，而輸入的取貨人姓名資料必須與身份證明文件相符，以核實身份。",
+    "required": "必須填寫",
+    "requiredSelect": "請選擇",
+    "full-address": "地址",
+    "open-hours": "營業時間",
+    "telephone-num": "電話"
+  },
+  "step3": {
+    "payment-method": "付款方式",
+    "check-sec": "您可以選擇以下其中一間銀行進行轉帳。跨銀行轉賬可能需要較長的處理時間，建議盡量使用同一間銀行轉賬。",
+    "warning-price-over": "很抱歉，訂單總額超過上限HK$500,000.00，請從您的購物袋中移除部分商品以完成訂購。",
+    "warning-price-not-match": "成立訂單失敗",
+    "warning-modelSeqNbr-not-match": "成立訂單失敗",
+    "warning-quantity-not-enough": "不好意思，999.9黃金金條暫時缺貨。",
+    "warning-display-only": "商品尚未上架",
+    "warning-res500": "成立訂單失敗",
+    "warning-payment-blank": "請選擇付款方式",
+    "warning-payment-error": "付款方式只接受為 ATM / AliPay / WechatPay",
+    "warning-payment-support": "不好意思，目前不支援此付款方式"
+  },
+  "banner-title": "結帳",
+  "btn-login": "登入",
+  "btn-back": "返回",
+  "btn-next": "繼續",
+  "btn-order": "立即下單",
+  "select-payment": "請選擇付款方式"
+}
