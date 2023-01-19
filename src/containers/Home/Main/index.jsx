@@ -10,6 +10,7 @@ import {
 
 // containers
 import Lesson from '../Lesson'
+import Reservation from '../Reservation'
 
 function Main() {
   const dispatch = useDispatch()
@@ -23,7 +24,7 @@ function Main() {
     },
     {
       name: '預約報名',
-      value: 'signUp',
+      value: 'reservation',
       icon: <CalendarIcon style={{ marginRight: '8px' }} />
     }
   ]
@@ -56,7 +57,7 @@ function Main() {
         ))}
       </div>
       {activeContainer === 'lesson' && <Lesson />}
-      {activeContainer === 'signUp' && <div>signUp</div>}
+      {activeContainer === 'reservation' && <Reservation />}
     </div>
   )
 }

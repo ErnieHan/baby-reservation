@@ -9,10 +9,11 @@ import { Help as HelpIcon } from '@mui/icons-material'
 function Lesson() {
   const dispatch = useDispatch()
 
-  const handleSignUp = () => {
+  const handleReservation = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' })
-    dispatch(setActiveContainer('signUp'))
+    dispatch(setActiveContainer('reservation'))
   }
+
   return (
     <div className="lesson_wrap">
       <div className="notice_container">
@@ -77,7 +78,7 @@ function Lesson() {
         </div>
       </div>
       <div className="sign_up_content">
-        <button className="sign_up_btn" onClick={handleSignUp}>
+        <button className="sign_up_btn" onClick={handleReservation}>
           預約報名
         </button>
       </div>

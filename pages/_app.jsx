@@ -15,6 +15,7 @@ import '../src/styles/globals.scss'
 import '../src/containers/Layout/style.scss'
 import '../src/containers/Home/Main/style.scss'
 import '../src/containers/Home/Lesson/style.scss'
+import '../src/containers/Home/Reservation/style.scss'
 // components
 import '../src/components/Footer/style.scss'
 import '../src/components/FormBox/style.scss'
