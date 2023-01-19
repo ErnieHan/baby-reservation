@@ -27,6 +27,22 @@ function Lesson() {
           <p>課程由父母自行按摩嬰兒，教導者為輔助</p>
         </div>
       </div>
+      <div className="hr" />
+      <h3 className="content_title">教學內容</h3>
+      <h3 className="content_title">嬰兒按摩的好處</h3>
+      <div className="video_content">
+        <div className="frame_box">
+          <video autoPlay muted loop playsInline>
+            <source
+              src="/video/Benefits_of_Infant_Massage.mp4"
+              type="video/mp4"
+            />
+          </video>
+        </div>
+      </div>
+      <div className="sign_up_content">
+        <button className="primary_btn">立即預約</button>
+      </div>
     </div>
   )
 }
